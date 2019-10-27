@@ -1,10 +1,10 @@
-#Wish Happy Diwali in your own style
+# Wish Happy Diwali in your own style
 
-##What is Diwali
+## What is Diwali
 
 Diwali, Deepawali or Dipavali is the Hindu festival of lights, which is celebrated every autumn in the northern hemisphere. One of the most popular festivals of Hinduism, Diwali or Deepavali symbolises the spiritual "victory of light over darkness, good over evil and knowledge over ignorance"
 
-##Want to contribute?
+## Want to contribute?
 
 - Create a new folder with your style name like "Webpage wishing Happy diwali with crackers" or "Cute Gif wishing Happy Diwali" etc.
 
