@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    vertical-align: middle;
+  }
+#rgb{
+    padding-top: 50px;
+    margin: auto;
+	font-family: 'Anton', sans-serif;/*Anton from Google fonts*/
+	font-size:250px;
+	cursor:pointer;
+}
+
+
+
